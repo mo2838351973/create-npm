@@ -1,0 +1,19 @@
+{
+  "name": "yhh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mo2838351973/create-npm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mo2838351973/create-npm/issues"
+  },
+  "homepage": "https://github.com/mo2838351973/create-npm#readme"
+}
